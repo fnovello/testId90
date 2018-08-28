@@ -4,8 +4,8 @@ $config = Config::singleton();
 $config->set('controllersFolder', 'Controllers/');
 $config->set('viewsFolder', 'Views/');
 
-$config->set('app', 'http://localhost/desarrollo/test/index.php');
-$config->set('public', 'http://localhost/desarrollo/test/public');
+$config->set('app', 'http://localhost/desarrollo/testId90/index.php');
+$config->set('public', 'http://localhost/desarrollo/testId90/public');
 
 //ENDPOINTS P
 $config->set('uri_airlines', 'https://beta.id90travel.com/airlines');
