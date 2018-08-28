@@ -1,0 +1,11 @@
+{
+    "name": "Prueba",
+    "description": "Prueba",
+    "keywords": ["test"],
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
+
+
